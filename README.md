@@ -1,13 +1,15 @@
 # Intro
 
-Custom Default Counter App on Flutter.
+Corona virus ( covid 19 ) Statistic App on Flutter.
 
-The updated : Flutter Bloc / Cubit + Node Js + SQL Server
+The tech used: Flutter widgets + Flutter Bloc / Cubit + Rest Api 
 
 Check the screenshot :
 
-![alt text](https://i.ibb.co/jhfxL72/Screenshot-2021-10-30-07-58-34.png)
-![alt text](https://i.ibb.co/Kqw68gP/Screenshot-2021-10-30-07-58-40.png)
+
+![pic](https://i.postimg.cc/sfpjKp71/Screenshot-2021-11-02-11-44-25.png)
+
+
 
 ## P.S
 
@@ -20,8 +22,6 @@ Flutter upgrade
 ## assets
 
 https://pub.dev/packages/flutter_bloc
-https://pub.dev/packages/path_provider
-https://pub.dev/packages/hydrated_bloc
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
