@@ -1,13 +1,13 @@
 # Intro
 
-Corona virus ( covid 19 ) Statistic App on Flutter.
+Simple counter App on Flutter.
 
-The tech used: Flutter widgets + Flutter Bloc / Cubit + Rest Api 
+The tech used: Flutter widgets + Flutter Bloc / Cubit + Node Js + SQL server 
 
 Check the screenshot :
 
-
-![pic](https://i.postimg.cc/sfpjKp71/Screenshot-2021-11-02-11-44-25.png)
+![pic](https://i.postimg.cc/QdMKR6Jf/Screenshot-2021-10-30-07-58-40.png)
+![pic](https://i.postimg.cc/gkmZKcXF/Screenshot-2021-10-30-07-58-34.png)
 
 
 
